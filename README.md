@@ -6,7 +6,7 @@ MCSManager是有双羽开发的 开源Minecraft管理面板
 https://github.com/MCSManager/MCSManager
 
 MCSManager 9.3 发行版 下载链接列表
-发布时间2022年2月27日18点20分
+发布时间2022年2月27日18点55分
 本列表记录源站及分流下载链接。
 本表不对下列链接的有效性及安全性负责。
 
